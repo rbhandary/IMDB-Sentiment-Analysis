@@ -1,2 +1,2 @@
 # IMDB-Sentiment-Analysis
-Predicting the sentiment of an IMDB movie review based on just the review
+Predicting the overall sentiment of an IMDB review based on just the words in the review
